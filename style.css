@@ -1,0 +1,130 @@
+.container{
+    margin-bottom: 100px;
+}
+.nav-1{
+    background-color : #F0FFF0;
+    padding-top: 10px;
+   
+}
+.nav-1 img{
+    width: 198.07px;
+    height: 59px;
+}
+.sing-in{
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    padding :12px 28px;
+    font-family :'Roboto';
+    font-style: normal;
+    font-weight:400;
+    font-size: 16px;
+    line-height: 19px;
+    
+}
+.red{
+    font-family :'Poppins';
+    font-style :normal;
+    font-weight: 400;
+    font-size :16px;
+    line-height: 24px;
+    color: red;
+   
+}
+.green{
+       
+    font-family :'Poppins';
+    font-style:normal;
+    font-weight: 700;
+    font-size :48px;
+    line-height: 70px;
+    
+}
+.light-green{
+    color: #21B573;
+}
+.pra{
+    font-family: 'Poppins';
+    font-style :normal;
+    font-weight:400;
+    font-size: 16px;
+    line-height: 36px;
+    
+    }
+    .get-start{
+        background-color: #21B573;
+        border-radius: 33px;
+        font-family :'Roboto';
+        font-style: normal;
+        font-weight :400;
+        font-size: 16px;
+        line-height: 19px;
+        color: white;
+        padding :12px 36px;
+    }
+    .illustration img{
+        width: 400px;
+        height :300px;
+    }
+    .illustration{
+      
+       padding-top: 80px; 
+       padding-bottom: 40px;
+      
+    }
+    .topic img{
+        width :66px;
+        height: 85px;
+      
+       
+    }
+    .book ,.test,.students{
+        background-color:  #F8FFFB;
+        border-radius: 10px;
+        width: 250px;
+        height: 250px;
+        padding-top: 40px;
+        
+    }
+    .student{
+        background-color: #FFFFFF;
+       box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+       border-radius: 10px;
+       width: 250px;
+       height: 250px;
+       padding-top: 40px;
+    }
+
+    .center{
+        text-align: center;
+    }
+   .card-footer{
+       background-color: white;
+       border-top: none;
+       padding-bottom: 20px;
+       
+   }
+   .card img{
+       padding: 10px;
+   }
+   .card{
+        border: none;
+        box-shadow: 5px 5px 10px lightgray;
+        border-radius: 10px ;
+        margin-top: 40px;
+   }
+    .man img{
+        width: 100px;
+      
+    }
+    ul{
+        list-style-type: none;
+    }
+    .black{
+        padding: 20px 50px;
+        background-color:#282531;
+        color: white;
+    }
+    footer{
+        margin-top: 100px;
+    }
