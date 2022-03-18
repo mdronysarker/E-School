@@ -1,10 +1,9 @@
 .container{
     margin-bottom: 100px;
 }
-.nav-1{
+
+.nav2{
     background-color : #F0FFF0;
-    padding-top: 10px;
-   
 }
 .nav-1 img{
     width: 198.07px;
@@ -63,8 +62,8 @@
         padding :12px 36px;
     }
     .illustration img{
-        width: 400px;
-        height :300px;
+        width: 554px;
+        height :346px;
     }
     .illustration{
       
@@ -115,7 +114,14 @@
    }
     .man img{
         width: 100px;
+     
       
+    }
+    #man2{
+        text-align: right;
+    }
+    #man3{
+        width: 52%;
     }
     ul{
         list-style-type: none;
